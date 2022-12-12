@@ -1,0 +1,16 @@
+export const colors = {
+  dark: "#222",
+  lightDark: "#616161",
+  light: "#ffffff",
+  darkMuted: "#bebebe",
+  muted: "#e6e6e6",
+  lightMuted: "#fafafa",
+  darkInfo: "#0d3a5b",
+  info: "#5478c4",
+  lightInfo: "#add8e6",
+  error: "#ff3333",
+  errorLight: "#ffc0cb",
+  success: "#35e708",
+  playfulError: "#fd297b",
+  playfulSuccess: "#7cff70",
+};

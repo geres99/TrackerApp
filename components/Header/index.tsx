@@ -1,4 +1,7 @@
 import Box from "components/Box";
-export default function App() {
+
+const Header = () => {
   return <Box></Box>;
-}
+};
+
+export default Header;

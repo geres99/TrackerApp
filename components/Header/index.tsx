@@ -37,6 +37,7 @@ const Header: FC<HeaderType> = ({ item, time, updateTime }) => {
         clearInterval(interval);
       };
     }
+    removeStorage("activeItem");
   }, [updateTime, isActive, time]);
 
   return (

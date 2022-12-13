@@ -18,6 +18,7 @@ export const typography = {
   },
   h0Bold: {
     fontSize: fontSizes.xl,
+    fontWeight: "700",
   },
   h1Light: {
     fontSize: fontSizes.l,
@@ -27,6 +28,7 @@ export const typography = {
   },
   h1Bold: {
     fontSize: fontSizes.l,
+    fontWeight: "700",
   },
   h2Light: {
     fontSize: fontSizes.m,
@@ -36,15 +38,18 @@ export const typography = {
   },
   h2Bold: {
     fontSize: fontSizes.m,
+    fontWeight: "700",
   },
   h3Light: {
     fontSize: fontSizes.s,
   },
   h3: {
     fontSize: fontSizes.s,
+    fontWeight: "500",
   },
   h3Bold: {
     fontSize: fontSizes.s,
+    fontWeight: "700",
   },
   h4SpecialLight: {
     fontSize: fontSizes.xspecial,
@@ -60,18 +65,22 @@ export const typography = {
   },
   h4: {
     fontSize: fontSizes.xs,
+    fontWeight: "500",
   },
   h4Bold: {
     fontSize: fontSizes.xs,
+    fontWeight: "700",
   },
   h5Light: {
     fontSize: fontSizes.xxs,
   },
   h5: {
     fontSize: fontSizes.xxs,
+    fontWeight: "500",
   },
   h5Bold: {
     fontSize: fontSizes.xxs,
+    fontWeight: "700",
   },
   h6Light: {
     fontSize: fontSizes.xxxs,
@@ -81,5 +90,6 @@ export const typography = {
   },
   h6Bold: {
     fontSize: fontSizes.xxxs,
+    fontWeight: "700",
   },
 };
